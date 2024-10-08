@@ -97,18 +97,11 @@ VS Code                  16 hrs 22 mins      ███████████�
 💻 Operating System: 
 Mac                      16 hrs 22 mins      █████████████████████████   100.00 % 
 ```
-
-
- Last Updated on 29/03/2024 01:15:34 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
 
 </table>
-
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/JalenGuo/JalenGuo/assets/images/hr.gif" />
 
 <div align="center">
 
