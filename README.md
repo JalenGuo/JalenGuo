@@ -14,7 +14,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Geekswg
+  Hi, I'm JalenGuo
   <br>
   🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
   <br>
@@ -26,7 +26,7 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
-  💬 Ask me anything about from <a href="https://github.com/geekswg/geekswg/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/JalenGuo/JalenGuo/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: geekswg@qq.com">geekswg@qq.com</a>
 </p>
