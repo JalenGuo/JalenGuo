@@ -4,6 +4,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=JalenGuo&show_icons=true&theme=transparent)
 ## 常用语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JalenGuo&layout=compact&theme=tokyonight)
+## 🏆
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=JalenGuo" /> </div>
 
 <!--
 **JalenGuo/JalenGuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
