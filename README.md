@@ -41,18 +41,12 @@
 <tr><td>
 
 ### 🤺 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JalenGuo/JalenGuo/assets/images/jobs.png" />
-
 <p>&emsp;&emsp;嗨，你好，我是Jalen。热爱编程、篮球、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 
 </td></tr>
 
 ### 📃 Recent Blog
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JalenGuo/JalenGuo/assets/images/astronaut.png" />
-
 </td></tr>
 
 <tr><td>
@@ -108,10 +102,7 @@ Mac                      16 hrs 22 mins      ███████████�
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JalenGuo&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JalenGuo&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JalenGuo&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/JalenGuo/JalenGuo/assets/images/right.png" />
-
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/JalenGuo/JalenGuo/assets/images/cxyduck.gif" />&emsp;
 <img src="https://cdn.jsdelivr.net/gh/JalenGuo/JalenGuo/github-metrics/base.svg" />
