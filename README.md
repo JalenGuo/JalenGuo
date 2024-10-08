@@ -186,23 +186,6 @@ Mac                      16 hrs 22 mins      ███████████�
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JalenGuo/JalenGuo/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JalenGuo/JalenGuo/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/JalenGuo/JalenGuo/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/JalenGuo/JalenGuo/assets/images/hr.gif" />
-
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
-
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/JalenGuo/JalenGuo/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <table>
