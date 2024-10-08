@@ -16,15 +16,7 @@
 <p align="center">
   Hi, I'm JalenGuo
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  🔬 I'm currently in my third year of college
   <br>
   💬 Ask me anything about from <a href="https://github.com/JalenGuo/JalenGuo/issues" title="Issues">Here</a>
   <br>
