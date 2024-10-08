@@ -134,13 +134,8 @@ Mac                      16 hrs 22 mins      ███████████�
 
 </div>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/JalenGuo/JalenGuo/assets/images/hr.gif" />
 
 <div align="center" >
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/JalenGuo/JalenGuo/assets/images/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 
