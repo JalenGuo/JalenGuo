@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=JalenGuoe&show_icons=true&theme=transparent)
+![Visitor Count](https://profile-counter.glitch.me/JalenGuo/count.svg)
 <!--
 **JalenGuo/JalenGuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
