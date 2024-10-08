@@ -6,7 +6,7 @@
   </a>
 </h1>
 <h5 align="center">
-  <code><a href="http://wpa.qq.com/msgrd?v=3&uin=1101303970&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg">  </a></code>
+  <code><a href="[http://wpa.qq.com/msgrd?v=3&uin=1101303970&site=qq&menu=yes](https://camo.githubusercontent.com/2157730975bac38acc76b8ad243e505a928c5dbf40325fadc41834e9a1e14dd7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6765656b7377672f6765656b7377672f6173736574732f696d616765732f636f64696e672e676966)" title="QQ Profile"><img height="24" src="images/QQ.svg">  </a></code>
   <code><a href="mailto: JalenGuo@qq.com" title="点击给我发邮件"><img height="24" src="images/mail.svg">  </a></code>
   <code><a href="http://JalenGuo.cnblogs.com/" title="JalenGuo's Cnblogs"><img height="24" src="images/cnblogs.svg">  </a></code>
   <code><a href="https://gitee.com/JalenGuo" title="JalenGuo's Gitee"><img height="24" src="images/gitee2.png">  </a></code>
