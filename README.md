@@ -1,7 +1,3 @@
-<!-- 背景图 -->
-<br />
-<br />
-<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
